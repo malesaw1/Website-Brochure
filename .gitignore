@@ -1,0 +1,9 @@
+# Environments
+.env
+.venv
+.broshure
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

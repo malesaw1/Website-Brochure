@@ -12,7 +12,7 @@ A OpenAI API key is required to make requests to OpenAI
 
 # Example Output
 
-##Hugging Face: Building the Future of AI
+## Hugging Face: Building the Future of AI
 # Welcome to Hugging Face!
 
 ## 🤗 The AI Community Building the Future

@@ -2,6 +2,7 @@
 An LLM product for turning any company website into a fun and expressive brochure. 
 Creates a brochure from the URL entered. 
 In this example I have Huggingface's website url.
+Utilizes BeautifulSoup for website parsing.
 
 # Setup
 A OpenAI API key is required to make requests to OpenAI
